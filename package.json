@@ -26,6 +26,7 @@
     "jest": "^24.8.0"
   },
   "files": [
+    "src/",
     "README.md",
     "index.js"
   ],
