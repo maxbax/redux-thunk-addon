@@ -10,7 +10,7 @@ Simplify use of [redux-thunk](https://github.com/reduxjs/redux-thunk) minimizing
 
 You cas use this addon into a project with [redux](https://github.com/reduxjs/redux) and [redux-thunk](https://github.com/reduxjs/redux-thunk) configured inside.
 
-In this project you can do the folowing:
+In this project you can do the following:
 
 1. Create your redux actions using `asyncCallAction` function:
 
