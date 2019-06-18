@@ -1,6 +1,6 @@
 {
   "name": "redux-thunk-addon",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Simplify use of thunk minimizing boilerplate coding",
   "author": "maxbax <info@aerito.com>",
   "homepage": "https://github.com/maxbax/redux-thunk-addon#readme",
@@ -26,7 +26,8 @@
     "jest": "^24.8.0"
   },
   "files": [
-    "src/",
+    "src/**",
+    "!**.test.**",
     "README.md",
     "index.js"
   ],
