@@ -1,0 +1,40 @@
+{
+  "name": "redux-thunk-addon",
+  "version": "0.0.1",
+  "description": "Simplify use of thunk minimizing boilerplate coding",
+  "author": "maxbax <info@aerito.com>",
+  "homepage": "https://github.com/maxbax/redux-thunk-addon#readme",
+  "main": "index.js",
+  "keywords": [
+    "redux",
+    "thunk",
+    "boilerplate"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^4.0.1"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.4.5",
+    "babel-eslint": "^10.0.1",
+    "babel-preset-env": "^1.7.0",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.17.3",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.13.0",
+    "jest": "^24.8.0"
+  },
+  "files": [
+    "README.md",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxbax/redux-thunk-addon.git"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  }
+}
