@@ -1,6 +1,6 @@
 # redux-thunk-addon
 
-Simplify use of [redux-thunk](https://github.com/reduxjs/redux-thunk) minimizing boilerplate coding.
+This library simplify the use of [redux-thunk](https://github.com/reduxjs/redux-thunk) minimizing the boilerplate coding.
 
 ## Installation
 
@@ -8,9 +8,9 @@ Simplify use of [redux-thunk](https://github.com/reduxjs/redux-thunk) minimizing
 
 ## Usage
 
-You cas use this addon into a project with [redux](https://github.com/reduxjs/redux) and [redux-thunk](https://github.com/reduxjs/redux-thunk) configured inside.
+You can use this addon into a project with [redux](https://github.com/reduxjs/redux) and [redux-thunk](https://github.com/reduxjs/redux-thunk) configured inside.
 
-In this project you can do the following:
+In this project you can do the following steps:
 
 1. Create your redux actions using `asyncCallAction` function:
 
@@ -34,4 +34,4 @@ Inside the actions file export an object with the actions string.
 
 ## Example
 
-In `Example` folder you can find a small redux example with this library.
+In the `Example` folder you can find a small redux example with this library.

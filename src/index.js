@@ -2,8 +2,8 @@ import {
   AsyncActionStatus,
   asyncCall as asyncCallAction,
   resetAsyncAction,
-} from './src/utils/asyncAction';
-import apiReducer from './src/reducers/apiReducers';
+} from './utils/asyncAction';
+import apiReducer from './reducers/apiReducers';
 
 export {
   AsyncActionStatus,

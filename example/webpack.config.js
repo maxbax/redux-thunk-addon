@@ -31,7 +31,7 @@ module.exports = {
   resolve: {
     extensions: ['.jsx', '.js'],
     alias: {
-      'redux-thunk-addon': path.resolve(__dirname, '../index.js'),
+      'redux-thunk-addon': path.resolve(__dirname, '../src/index.js'),
     },
   },
 };
